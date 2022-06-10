@@ -2,7 +2,7 @@
 Unity Android project - ARFoundation, SQLite
 
 
-<B>Main screen :<B>
+<B>Main screen :</B>
 
   Buttons - 
   1) Start Recording / Stop recording
@@ -10,7 +10,7 @@ Unity Android project - ARFoundation, SQLite
   3) Flip camera direction
   4) Three type of mustaches to choose from - select any one to change
 
-Saved Videos Screen :
+<B>Saved Videos Screen :</B>
 
   Add Button to go back to recording scene
   
@@ -25,17 +25,17 @@ Saved Videos Screen :
       4) Tag created by User
     
     
-Currently working on Bugs :
+<B>Currently working on Bugs :</B>
 1) Blank screen on stop playback
 
 
 
 
-APK File :
+<B>APK File :</B>
 https://github.com/R0llingStar/MustacheFilter/raw/master/MustacheFilter.apk
   
   
-  Questionnaire
+  <B>Questionnaire</B>
 Please rate your proficiency in the following on a scale of 1-10:
 1.	C#   ---  8
 2.	Unity SDK ---- 6
